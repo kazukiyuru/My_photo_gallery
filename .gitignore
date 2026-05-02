@@ -1,0 +1,5 @@
+node_modules/
+gallery_backup/
+compress.js
+package.json
+package-lock.json
